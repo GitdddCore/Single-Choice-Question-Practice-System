@@ -1,0 +1,13 @@
+{
+  "database": {
+    "host": "你的MySQL主机地址 | Your MySQL Host", 
+    "port": 3306,
+    "username": "你的MySQL用户名 | Your MySQL Username",
+    "password": "你的MySQL密码 | Your MySQL Password",
+    "database_name": "你的MySQL数据库名称 | Your MySQL Database Name",
+    "charset": "utf8mb4"
+  },
+  "admin": {
+    "password": "后台管理员页密码 | Admin Password"
+  }
+}
